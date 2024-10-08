@@ -1,0 +1,948 @@
+2024-04-15 23:54:10,161 - INFO - Remapped Country ID updated for city_id 54.
+2024-04-15 23:54:11,359 - ERROR - Error updating Remapped Country ID for city_id 59: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/59
+2024-04-15 23:54:12,761 - ERROR - Error updating Remapped Country ID for city_id 60: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/60
+2024-04-15 23:54:13,971 - INFO - Remapped Country ID updated for city_id 230.
+2024-04-15 23:54:15,236 - ERROR - Error updating Remapped Country ID for city_id 249: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/249
+2024-04-15 23:54:16,454 - INFO - Remapped Country ID updated for city_id 329.
+2024-04-15 23:54:17,659 - INFO - Remapped Country ID updated for city_id 416.
+2024-04-15 23:54:18,865 - INFO - Remapped Country ID updated for city_id 448.
+2024-04-15 23:54:20,057 - INFO - Remapped Country ID updated for city_id 542.
+2024-04-15 23:54:21,383 - INFO - Remapped Country ID updated for city_id 658.
+2024-04-15 23:54:22,669 - INFO - Remapped Country ID updated for city_id 925.
+2024-04-15 23:54:23,936 - INFO - Remapped Country ID updated for city_id 994.
+2024-04-15 23:54:25,260 - INFO - Remapped Country ID updated for city_id 1148.
+2024-04-15 23:54:26,552 - INFO - Remapped Country ID updated for city_id 1180.
+2024-04-15 23:54:27,753 - ERROR - Error updating Remapped Country ID for city_id 1190: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1190
+2024-04-15 23:54:28,947 - ERROR - Error updating Remapped Country ID for city_id 1352: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1352
+2024-04-15 23:54:30,198 - ERROR - Error updating Remapped Country ID for city_id 1353: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1353
+2024-04-15 23:54:31,378 - ERROR - Error updating Remapped Country ID for city_id 1361: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1361
+2024-04-15 23:54:32,636 - INFO - Remapped Country ID updated for city_id 1372.
+2024-04-15 23:54:34,132 - INFO - Remapped Country ID updated for city_id 1558.
+2024-04-15 23:54:35,259 - ERROR - Error updating Remapped Country ID for city_id 1603: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1603
+2024-04-15 23:54:36,559 - INFO - Remapped Country ID updated for city_id 1779.
+2024-04-15 23:54:37,852 - ERROR - Error updating Remapped Country ID for city_id 1898: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/1898
+2024-04-15 23:54:39,061 - INFO - Remapped Country ID updated for city_id 1972.
+2024-04-15 23:54:40,279 - INFO - Remapped Country ID updated for city_id 2230.
+2024-04-15 23:54:41,456 - INFO - Remapped Country ID updated for city_id 2233.
+2024-04-15 23:54:42,759 - INFO - Remapped Country ID updated for city_id 2235.
+2024-04-15 23:54:43,957 - INFO - Remapped Country ID updated for city_id 2262.
+2024-04-15 23:54:45,266 - INFO - Remapped Country ID updated for city_id 2270.
+2024-04-15 23:54:46,635 - ERROR - Error updating Remapped Country ID for city_id 2363: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/2363
+2024-04-15 23:54:47,856 - INFO - Remapped Country ID updated for city_id 2447.
+2024-04-15 23:54:49,136 - INFO - Remapped Country ID updated for city_id 2634.
+2024-04-15 23:54:50,367 - INFO - Remapped Country ID updated for city_id 2727.
+2024-04-15 23:54:51,562 - INFO - Remapped Country ID updated for city_id 2786.
+2024-04-15 23:54:52,759 - INFO - Remapped Country ID updated for city_id 2848.
+2024-04-15 23:54:54,443 - ERROR - Error updating Remapped Country ID for city_id 2952: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/2952
+2024-04-15 23:54:55,646 - ERROR - Error updating Remapped Country ID for city_id 2953: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/2953
+2024-04-15 23:54:56,947 - INFO - Remapped Country ID updated for city_id 2998.
+2024-04-15 23:54:58,268 - INFO - Remapped Country ID updated for city_id 3015.
+2024-04-15 23:54:59,583 - INFO - Remapped Country ID updated for city_id 3124.
+2024-04-15 23:55:00,862 - INFO - Remapped Country ID updated for city_id 3173.
+2024-04-15 23:55:02,154 - INFO - Remapped Country ID updated for city_id 3178.
+2024-04-15 23:55:03,373 - INFO - Remapped Country ID updated for city_id 3314.
+2024-04-15 23:55:04,569 - ERROR - Error updating Remapped Country ID for city_id 3390: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/3390
+2024-04-15 23:55:05,835 - INFO - Remapped Country ID updated for city_id 3562.
+2024-04-15 23:55:07,039 - INFO - Remapped Country ID updated for city_id 3578.
+2024-04-15 23:55:08,267 - INFO - Remapped Country ID updated for city_id 3579.
+2024-04-15 23:55:09,662 - INFO - Remapped Country ID updated for city_id 3580.
+2024-04-15 23:55:11,068 - ERROR - Error updating Remapped Country ID for city_id 3581: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/3581
+2024-04-15 23:55:12,455 - INFO - Remapped Country ID updated for city_id 3751.
+2024-04-15 23:55:13,766 - INFO - Remapped Country ID updated for city_id 3788.
+2024-04-15 23:55:15,076 - ERROR - Error updating Remapped Country ID for city_id 3966: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/3966
+2024-04-15 23:55:16,336 - INFO - Remapped Country ID updated for city_id 4096.
+2024-04-15 23:55:17,568 - INFO - Remapped Country ID updated for city_id 4195.
+2024-04-15 23:55:18,774 - INFO - Remapped Country ID updated for city_id 4303.
+2024-04-15 23:55:19,964 - INFO - Remapped Country ID updated for city_id 4353.
+2024-04-15 23:55:21,234 - INFO - Remapped Country ID updated for city_id 4396.
+2024-04-15 23:55:22,501 - INFO - Remapped Country ID updated for city_id 4403.
+2024-04-15 23:55:23,778 - ERROR - Error updating Remapped Country ID for city_id 4451: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/4451
+2024-04-15 23:55:24,980 - INFO - Remapped Country ID updated for city_id 4532.
+2024-04-15 23:55:26,339 - INFO - Remapped Country ID updated for city_id 4629.
+2024-04-15 23:55:27,677 - INFO - Remapped Country ID updated for city_id 4687.
+2024-04-15 23:55:28,966 - INFO - Remapped Country ID updated for city_id 4693.
+2024-04-15 23:55:30,198 - INFO - Remapped Country ID updated for city_id 4782.
+2024-04-15 23:55:31,458 - ERROR - Error updating Remapped Country ID for city_id 5083: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/5083
+2024-04-15 23:55:32,733 - INFO - Remapped Country ID updated for city_id 5136.
+2024-04-15 23:55:34,545 - INFO - Remapped Country ID updated for city_id 5321.
+2024-04-15 23:55:35,776 - INFO - Remapped Country ID updated for city_id 5344.
+2024-04-15 23:55:36,963 - INFO - Remapped Country ID updated for city_id 5502.
+2024-04-15 23:55:38,274 - INFO - Remapped Country ID updated for city_id 5546.
+2024-04-15 23:55:39,473 - INFO - Remapped Country ID updated for city_id 5548.
+2024-04-15 23:55:40,833 - INFO - Remapped Country ID updated for city_id 5550.
+2024-04-15 23:55:42,149 - ERROR - Error updating Remapped Country ID for city_id 5593: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/5593
+2024-04-15 23:55:43,668 - INFO - Remapped Country ID updated for city_id 5617.
+2024-04-15 23:55:44,854 - ERROR - Error updating Remapped Country ID for city_id 5688: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/5688
+2024-04-15 23:55:46,175 - INFO - Remapped Country ID updated for city_id 5973.
+2024-04-15 23:55:47,373 - ERROR - Error updating Remapped Country ID for city_id 5986: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/5986
+2024-04-15 23:55:48,688 - ERROR - Error updating Remapped Country ID for city_id 5998: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/5998
+2024-04-15 23:55:50,059 - INFO - Remapped Country ID updated for city_id 6106.
+2024-04-15 23:55:51,267 - INFO - Remapped Country ID updated for city_id 6117.
+2024-04-15 23:55:52,569 - INFO - Remapped Country ID updated for city_id 6265.
+2024-04-15 23:55:53,837 - INFO - Remapped Country ID updated for city_id 6318.
+2024-04-15 23:55:55,134 - INFO - Remapped Country ID updated for city_id 6320.
+2024-04-15 23:55:56,943 - INFO - Remapped Country ID updated for city_id 6411.
+2024-04-15 23:55:58,176 - INFO - Remapped Country ID updated for city_id 6430.
+2024-04-15 23:55:59,541 - INFO - Remapped Country ID updated for city_id 6460.
+2024-04-15 23:56:00,767 - INFO - Remapped Country ID updated for city_id 6464.
+2024-04-15 23:56:02,062 - INFO - Remapped Country ID updated for city_id 6465.
+2024-04-15 23:56:03,374 - INFO - Remapped Country ID updated for city_id 6493.
+2024-04-15 23:56:04,649 - INFO - Remapped Country ID updated for city_id 6511.
+2024-04-15 23:56:05,932 - ERROR - Error updating Remapped Country ID for city_id 6521: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/6521
+2024-04-15 23:56:07,181 - INFO - Remapped Country ID updated for city_id 6545.
+2024-04-15 23:56:08,533 - INFO - Remapped Country ID updated for city_id 6546.
+2024-04-15 23:56:09,767 - INFO - Remapped Country ID updated for city_id 6561.
+2024-04-15 23:56:11,232 - INFO - Remapped Country ID updated for city_id 6563.
+2024-04-15 23:56:12,737 - INFO - Remapped Country ID updated for city_id 6906.
+2024-04-15 23:56:13,939 - INFO - Remapped Country ID updated for city_id 6957.
+2024-04-15 23:56:15,164 - INFO - Remapped Country ID updated for city_id 7006.
+2024-04-15 23:56:16,449 - INFO - Remapped Country ID updated for city_id 7131.
+2024-04-15 23:56:17,787 - INFO - Remapped Country ID updated for city_id 7216.
+2024-04-15 23:56:19,047 - INFO - Remapped Country ID updated for city_id 7477.
+2024-04-15 23:56:20,272 - INFO - Remapped Country ID updated for city_id 7478.
+2024-04-15 23:56:21,551 - INFO - Remapped Country ID updated for city_id 7487.
+2024-04-15 23:56:22,833 - INFO - Remapped Country ID updated for city_id 7496.
+2024-04-15 23:56:24,045 - ERROR - Error updating Remapped Country ID for city_id 7500: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/7500
+2024-04-15 23:56:25,287 - INFO - Remapped Country ID updated for city_id 7502.
+2024-04-15 23:56:26,550 - INFO - Remapped Country ID updated for city_id 7511.
+2024-04-15 23:56:27,771 - INFO - Remapped Country ID updated for city_id 7552.
+2024-04-15 23:56:29,059 - INFO - Remapped Country ID updated for city_id 7619.
+2024-04-15 23:56:30,357 - INFO - Remapped Country ID updated for city_id 7694.
+2024-04-15 23:56:31,634 - INFO - Remapped Country ID updated for city_id 7733.
+2024-04-15 23:56:32,860 - INFO - Remapped Country ID updated for city_id 7753.
+2024-04-15 23:56:34,456 - INFO - Remapped Country ID updated for city_id 7754.
+2024-04-15 23:56:35,666 - INFO - Remapped Country ID updated for city_id 7759.
+2024-04-15 23:56:36,945 - INFO - Remapped Country ID updated for city_id 7764.
+2024-04-15 23:56:38,235 - INFO - Remapped Country ID updated for city_id 7802.
+2024-04-15 23:56:39,463 - INFO - Remapped Country ID updated for city_id 7817.
+2024-04-15 23:56:40,684 - INFO - Remapped Country ID updated for city_id 7855.
+2024-04-15 23:56:41,949 - INFO - Remapped Country ID updated for city_id 7857.
+2024-04-15 23:56:43,236 - ERROR - Error updating Remapped Country ID for city_id 7867: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/7867
+2024-04-15 23:56:44,456 - ERROR - Error updating Remapped Country ID for city_id 7868: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/7868
+2024-04-15 23:56:45,803 - INFO - Remapped Country ID updated for city_id 8236.
+2024-04-15 23:56:47,133 - INFO - Remapped Country ID updated for city_id 8358.
+2024-04-15 23:56:48,383 - ERROR - Error updating Remapped Country ID for city_id 8486: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/8486
+2024-04-15 23:56:49,668 - INFO - Remapped Country ID updated for city_id 8892.
+2024-04-15 23:56:50,868 - INFO - Remapped Country ID updated for city_id 8918.
+2024-04-15 23:56:52,066 - INFO - Remapped Country ID updated for city_id 8923.
+2024-04-15 23:56:53,349 - INFO - Remapped Country ID updated for city_id 8925.
+2024-04-15 23:56:54,655 - INFO - Remapped Country ID updated for city_id 8944.
+2024-04-15 23:56:55,939 - INFO - Remapped Country ID updated for city_id 8990.
+2024-04-15 23:56:57,255 - INFO - Remapped Country ID updated for city_id 8991.
+2024-04-15 23:56:58,634 - ERROR - Error updating Remapped Country ID for city_id 9005: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/9005
+2024-04-15 23:56:59,867 - INFO - Remapped Country ID updated for city_id 9014.
+2024-04-15 23:57:01,136 - INFO - Remapped Country ID updated for city_id 9015.
+2024-04-15 23:57:02,433 - INFO - Remapped Country ID updated for city_id 9016.
+2024-04-15 23:57:03,750 - INFO - Remapped Country ID updated for city_id 9023.
+2024-04-15 23:57:05,263 - INFO - Remapped Country ID updated for city_id 9028.
+2024-04-15 23:57:06,533 - INFO - Remapped Country ID updated for city_id 9029.
+2024-04-15 23:57:07,753 - INFO - Remapped Country ID updated for city_id 9058.
+2024-04-15 23:57:09,159 - INFO - Remapped Country ID updated for city_id 9069.
+2024-04-15 23:57:10,662 - INFO - Remapped Country ID updated for city_id 9070.
+2024-04-15 23:57:11,858 - INFO - Remapped Country ID updated for city_id 9076.
+2024-04-15 23:57:13,135 - INFO - Remapped Country ID updated for city_id 9077.
+2024-04-15 23:57:14,459 - INFO - Remapped Country ID updated for city_id 9088.
+2024-04-15 23:57:15,757 - INFO - Remapped Country ID updated for city_id 9089.
+2024-04-15 23:57:17,036 - INFO - Remapped Country ID updated for city_id 9091.
+2024-04-15 23:57:18,191 - INFO - Remapped Country ID updated for city_id 9097.
+2024-04-15 23:57:19,364 - INFO - Remapped Country ID updated for city_id 9101.
+2024-04-15 23:57:20,565 - INFO - Remapped Country ID updated for city_id 9102.
+2024-04-15 23:57:21,759 - INFO - Remapped Country ID updated for city_id 9104.
+2024-04-15 23:57:22,982 - INFO - Remapped Country ID updated for city_id 9110.
+2024-04-15 23:57:24,175 - INFO - Remapped Country ID updated for city_id 9114.
+2024-04-15 23:57:25,364 - INFO - Remapped Country ID updated for city_id 9122.
+2024-04-15 23:57:26,569 - INFO - Remapped Country ID updated for city_id 9125.
+2024-04-15 23:57:27,850 - INFO - Remapped Country ID updated for city_id 9140.
+2024-04-15 23:57:29,068 - INFO - Remapped Country ID updated for city_id 9146.
+2024-04-15 23:57:30,277 - INFO - Remapped Country ID updated for city_id 9149.
+2024-04-15 23:57:31,564 - INFO - Remapped Country ID updated for city_id 9156.
+2024-04-15 23:57:32,777 - INFO - Remapped Country ID updated for city_id 9160.
+2024-04-15 23:57:34,533 - INFO - Remapped Country ID updated for city_id 9162.
+2024-04-15 23:57:35,773 - INFO - Remapped Country ID updated for city_id 9166.
+2024-04-15 23:57:37,135 - INFO - Remapped Country ID updated for city_id 9168.
+2024-04-15 23:57:38,381 - INFO - Remapped Country ID updated for city_id 9172.
+2024-04-15 23:57:39,581 - INFO - Remapped Country ID updated for city_id 9174.
+2024-04-15 23:57:41,134 - INFO - Remapped Country ID updated for city_id 9177.
+2024-04-15 23:57:42,435 - INFO - Remapped Country ID updated for city_id 9179.
+2024-04-15 23:57:43,735 - INFO - Remapped Country ID updated for city_id 9181.
+2024-04-15 23:57:44,971 - INFO - Remapped Country ID updated for city_id 9184.
+2024-04-15 23:57:46,234 - INFO - Remapped Country ID updated for city_id 9187.
+2024-04-15 23:57:47,470 - INFO - Remapped Country ID updated for city_id 9190.
+2024-04-15 23:57:48,671 - INFO - Remapped Country ID updated for city_id 9192.
+2024-04-15 23:57:49,945 - INFO - Remapped Country ID updated for city_id 9193.
+2024-04-15 23:57:51,175 - INFO - Remapped Country ID updated for city_id 9194.
+2024-04-15 23:57:52,473 - INFO - Remapped Country ID updated for city_id 9197.
+2024-04-15 23:57:53,662 - INFO - Remapped Country ID updated for city_id 9198.
+2024-04-15 23:57:54,977 - INFO - Remapped Country ID updated for city_id 9204.
+2024-04-15 23:57:56,265 - INFO - Remapped Country ID updated for city_id 9216.
+2024-04-15 23:57:57,547 - INFO - Remapped Country ID updated for city_id 9260.
+2024-04-15 23:57:59,358 - INFO - Remapped Country ID updated for city_id 9273.
+2024-04-15 23:58:00,643 - INFO - Remapped Country ID updated for city_id 9277.
+2024-04-15 23:58:01,991 - INFO - Remapped Country ID updated for city_id 9279.
+2024-04-15 23:58:03,353 - INFO - Remapped Country ID updated for city_id 9281.
+2024-04-15 23:58:04,581 - INFO - Remapped Country ID updated for city_id 9284.
+2024-04-15 23:58:05,882 - INFO - Remapped Country ID updated for city_id 9295.
+2024-04-15 23:58:07,092 - INFO - Remapped Country ID updated for city_id 9303.
+2024-04-15 23:58:08,347 - INFO - Remapped Country ID updated for city_id 9304.
+2024-04-15 23:58:09,576 - ERROR - Error updating Remapped Country ID for city_id 9305: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/9305
+2024-04-15 23:58:10,949 - ERROR - Error updating Remapped Country ID for city_id 9317: 422 Client Error: Unprocessable Content for url: https://classification-dev.dom-non-prod.with.digital/api/cities/9317
+2024-04-15 23:58:12,166 - INFO - Remapped Country ID updated for city_id 9330.
+2024-04-15 23:58:13,644 - INFO - Remapped Country ID updated for city_id 9340.
+2024-04-15 23:58:14,901 - INFO - Remapped Country ID updated for city_id 9344.
+2024-04-15 23:58:16,140 - INFO - Remapped Country ID updated for city_id 9380.
+2024-04-15 23:58:17,362 - INFO - Remapped Country ID updated for city_id 9403.
+2024-04-15 23:58:18,600 - INFO - Remapped Country ID updated for city_id 9408.
+2024-04-15 23:58:19,889 - INFO - Remapped Country ID updated for city_id 9417.
+2024-04-15 23:58:21,160 - INFO - Remapped Country ID updated for city_id 9422.
+2024-04-15 23:58:22,460 - INFO - Remapped Country ID updated for city_id 9425.
+2024-04-15 23:58:23,673 - INFO - Remapped Country ID updated for city_id 9428.
+2024-04-15 23:58:24,955 - INFO - Remapped Country ID updated for city_id 9431.
+2024-04-15 23:58:26,250 - INFO - Remapped Country ID updated for city_id 9432.
+2024-04-15 23:58:27,534 - INFO - Remapped Country ID updated for city_id 9441.
+2024-04-15 23:58:28,781 - INFO - Remapped Country ID updated for city_id 9444.
+2024-04-15 23:58:29,969 - INFO - Remapped Country ID updated for city_id 9446.
+2024-04-15 23:58:31,246 - INFO - Remapped Country ID updated for city_id 9457.
+2024-04-15 23:58:32,482 - INFO - Remapped Country ID updated for city_id 9468.
+2024-04-15 23:58:33,666 - INFO - Remapped Country ID updated for city_id 9480.
+2024-04-15 23:58:34,953 - INFO - Remapped Country ID updated for city_id 9483.
+2024-04-15 23:58:36,170 - INFO - Remapped Country ID updated for city_id 9488.
+2024-04-15 23:58:37,454 - INFO - Remapped Country ID updated for city_id 9495.
+2024-04-15 23:58:38,661 - INFO - Remapped Country ID updated for city_id 9498.
+2024-04-15 23:58:39,865 - INFO - Remapped Country ID updated for city_id 9505.
+2024-04-15 23:58:41,185 - INFO - Remapped Country ID updated for city_id 9513.
+2024-04-15 23:58:42,451 - INFO - Remapped Country ID updated for city_id 9514.
+2024-04-15 23:58:43,749 - INFO - Remapped Country ID updated for city_id 9515.
+2024-04-15 23:58:44,959 - INFO - Remapped Country ID updated for city_id 9517.
+2024-04-15 23:58:46,259 - INFO - Remapped Country ID updated for city_id 9519.
+2024-04-15 23:58:47,542 - INFO - Remapped Country ID updated for city_id 9548.
+2024-04-15 23:58:48,771 - INFO - Remapped Country ID updated for city_id 9555.
+2024-04-15 23:58:50,041 - INFO - Remapped Country ID updated for city_id 9557.
+2024-04-15 23:58:51,273 - INFO - Remapped Country ID updated for city_id 9559.
+2024-04-15 23:58:52,587 - INFO - Remapped Country ID updated for city_id 9567.
+2024-04-15 23:58:53,870 - INFO - Remapped Country ID updated for city_id 9569.
+2024-04-15 23:58:55,073 - INFO - Remapped Country ID updated for city_id 9570.
+2024-04-15 23:58:56,335 - INFO - Remapped Country ID updated for city_id 9572.
+2024-04-15 23:58:57,636 - INFO - Remapped Country ID updated for city_id 9581.
+2024-04-15 23:58:58,951 - INFO - Remapped Country ID updated for city_id 9582.
+2024-04-15 23:59:00,836 - INFO - Remapped Country ID updated for city_id 9599.
+2024-04-15 23:59:02,159 - INFO - Remapped Country ID updated for city_id 9601.
+2024-04-15 23:59:03,443 - INFO - Remapped Country ID updated for city_id 9605.
+2024-04-15 23:59:04,848 - INFO - Remapped Country ID updated for city_id 9626.
+2024-04-15 23:59:06,234 - INFO - Remapped Country ID updated for city_id 9627.
+2024-04-15 23:59:07,437 - INFO - Remapped Country ID updated for city_id 9631.
+2024-04-15 23:59:08,660 - INFO - Remapped Country ID updated for city_id 9652.
+2024-04-15 23:59:09,937 - INFO - Remapped Country ID updated for city_id 9661.
+2024-04-15 23:59:11,351 - INFO - Remapped Country ID updated for city_id 9662.
+2024-04-15 23:59:12,736 - INFO - Remapped Country ID updated for city_id 9669.
+2024-04-15 23:59:14,048 - INFO - Remapped Country ID updated for city_id 9671.
+2024-04-15 23:59:15,270 - INFO - Remapped Country ID updated for city_id 9679.
+2024-04-15 23:59:16,467 - INFO - Remapped Country ID updated for city_id 9691.
+2024-04-15 23:59:17,738 - INFO - Remapped Country ID updated for city_id 9692.
+2024-04-15 23:59:18,876 - INFO - Remapped Country ID updated for city_id 9693.
+2024-04-15 23:59:20,102 - INFO - Remapped Country ID updated for city_id 9701.
+2024-04-15 23:59:21,375 - INFO - Remapped Country ID updated for city_id 9704.
+2024-04-15 23:59:22,652 - INFO - Remapped Country ID updated for city_id 9705.
+2024-04-15 23:59:23,883 - INFO - Remapped Country ID updated for city_id 9707.
+2024-04-15 23:59:25,134 - INFO - Remapped Country ID updated for city_id 9708.
+2024-04-15 23:59:26,361 - INFO - Remapped Country ID updated for city_id 9711.
+2024-04-15 23:59:27,665 - INFO - Remapped Country ID updated for city_id 9735.
+2024-04-15 23:59:28,863 - INFO - Remapped Country ID updated for city_id 9739.
+2024-04-15 23:59:30,237 - INFO - Remapped Country ID updated for city_id 9744.
+2024-04-15 23:59:31,534 - INFO - Remapped Country ID updated for city_id 9745.
+2024-04-15 23:59:32,747 - INFO - Remapped Country ID updated for city_id 9757.
+2024-04-15 23:59:34,239 - INFO - Remapped Country ID updated for city_id 9771.
+2024-04-15 23:59:35,458 - INFO - Remapped Country ID updated for city_id 9772.
+2024-04-15 23:59:36,671 - INFO - Remapped Country ID updated for city_id 9786.
+2024-04-15 23:59:37,878 - INFO - Remapped Country ID updated for city_id 9790.
+2024-04-15 23:59:39,254 - INFO - Remapped Country ID updated for city_id 9793.
+2024-04-15 23:59:40,475 - INFO - Remapped Country ID updated for city_id 9797.
+2024-04-15 23:59:41,657 - INFO - Remapped Country ID updated for city_id 9799.
+2024-04-15 23:59:43,053 - INFO - Remapped Country ID updated for city_id 9802.
+2024-04-15 23:59:44,264 - INFO - Remapped Country ID updated for city_id 9804.
+2024-04-15 23:59:45,475 - INFO - Remapped Country ID updated for city_id 9814.
+2024-04-15 23:59:46,767 - INFO - Remapped Country ID updated for city_id 9818.
+2024-04-15 23:59:47,969 - INFO - Remapped Country ID updated for city_id 9824.
+2024-04-15 23:59:49,238 - INFO - Remapped Country ID updated for city_id 9830.
+2024-04-15 23:59:50,464 - INFO - Remapped Country ID updated for city_id 9841.
+2024-04-15 23:59:51,670 - INFO - Remapped Country ID updated for city_id 9847.
+2024-04-15 23:59:52,883 - INFO - Remapped Country ID updated for city_id 9867.
+2024-04-15 23:59:54,137 - INFO - Remapped Country ID updated for city_id 9871.
+2024-04-15 23:59:55,369 - INFO - Remapped Country ID updated for city_id 9872.
+2024-04-15 23:59:56,665 - INFO - Remapped Country ID updated for city_id 9877.
+2024-04-15 23:59:58,034 - INFO - Remapped Country ID updated for city_id 9878.
+2024-04-15 23:59:59,270 - INFO - Remapped Country ID updated for city_id 9879.
+2024-04-16 00:00:00,534 - INFO - Remapped Country ID updated for city_id 9880.
+2024-04-16 00:00:02,444 - INFO - Remapped Country ID updated for city_id 9881.
+2024-04-16 00:00:03,668 - INFO - Remapped Country ID updated for city_id 9882.
+2024-04-16 00:00:04,941 - INFO - Remapped Country ID updated for city_id 9893.
+2024-04-16 00:00:06,188 - INFO - Remapped Country ID updated for city_id 9894.
+2024-04-16 00:00:07,450 - INFO - Remapped Country ID updated for city_id 9895.
+2024-04-16 00:00:08,684 - INFO - Remapped Country ID updated for city_id 9897.
+2024-04-16 00:00:09,881 - INFO - Remapped Country ID updated for city_id 9898.
+2024-04-16 00:00:11,340 - INFO - Remapped Country ID updated for city_id 9899.
+2024-04-16 00:00:12,745 - INFO - Remapped Country ID updated for city_id 9900.
+2024-04-16 00:00:13,970 - INFO - Remapped Country ID updated for city_id 9901.
+2024-04-16 00:00:15,203 - INFO - Remapped Country ID updated for city_id 9902.
+2024-04-16 00:00:16,436 - INFO - Remapped Country ID updated for city_id 9903.
+2024-04-16 00:00:17,692 - INFO - Remapped Country ID updated for city_id 9907.
+2024-04-16 00:00:19,051 - INFO - Remapped Country ID updated for city_id 9908.
+2024-04-16 00:00:20,354 - INFO - Remapped Country ID updated for city_id 9909.
+2024-04-16 00:00:21,467 - INFO - Remapped Country ID updated for city_id 9910.
+2024-04-16 00:00:22,665 - INFO - Remapped Country ID updated for city_id 9911.
+2024-04-16 00:00:23,870 - INFO - Remapped Country ID updated for city_id 9912.
+2024-04-16 00:00:25,067 - INFO - Remapped Country ID updated for city_id 9913.
+2024-04-16 00:00:26,342 - INFO - Remapped Country ID updated for city_id 9914.
+2024-04-16 00:00:27,604 - INFO - Remapped Country ID updated for city_id 9923.
+2024-04-16 00:00:28,876 - INFO - Remapped Country ID updated for city_id 9924.
+2024-04-16 00:00:30,170 - INFO - Remapped Country ID updated for city_id 9925.
+2024-04-16 00:00:31,449 - INFO - Remapped Country ID updated for city_id 9926.
+2024-04-16 00:00:32,737 - INFO - Remapped Country ID updated for city_id 9927.
+2024-04-16 00:00:34,452 - INFO - Remapped Country ID updated for city_id 9928.
+2024-04-16 00:00:35,674 - INFO - Remapped Country ID updated for city_id 9929.
+2024-04-16 00:00:36,937 - INFO - Remapped Country ID updated for city_id 9930.
+2024-04-16 00:00:38,166 - INFO - Remapped Country ID updated for city_id 9931.
+2024-04-16 00:00:39,362 - INFO - Remapped Country ID updated for city_id 9932.
+2024-04-16 00:00:40,583 - INFO - Remapped Country ID updated for city_id 9933.
+2024-04-16 00:00:41,759 - INFO - Remapped Country ID updated for city_id 9934.
+2024-04-16 00:00:43,060 - INFO - Remapped Country ID updated for city_id 9935.
+2024-04-16 00:00:44,335 - INFO - Remapped Country ID updated for city_id 9936.
+2024-04-16 00:00:45,643 - INFO - Remapped Country ID updated for city_id 9937.
+2024-04-16 00:00:46,879 - INFO - Remapped Country ID updated for city_id 9938.
+2024-04-16 00:00:48,105 - INFO - Remapped Country ID updated for city_id 9940.
+2024-04-16 00:00:49,452 - INFO - Remapped Country ID updated for city_id 9945.
+2024-04-16 00:00:50,748 - INFO - Remapped Country ID updated for city_id 9946.
+2024-04-16 00:00:52,080 - INFO - Remapped Country ID updated for city_id 9948.
+2024-04-16 00:00:53,361 - INFO - Remapped Country ID updated for city_id 9952.
+2024-04-16 00:00:54,567 - INFO - Remapped Country ID updated for city_id 9955.
+2024-04-16 00:00:55,786 - INFO - Remapped Country ID updated for city_id 9956.
+2024-04-16 00:00:56,985 - INFO - Remapped Country ID updated for city_id 9957.
+2024-04-16 00:00:58,200 - INFO - Remapped Country ID updated for city_id 9958.
+2024-04-16 00:00:59,436 - INFO - Remapped Country ID updated for city_id 9959.
+2024-04-16 00:01:00,637 - INFO - Remapped Country ID updated for city_id 9960.
+2024-04-16 00:01:01,965 - INFO - Remapped Country ID updated for city_id 9961.
+2024-04-16 00:01:03,449 - INFO - Remapped Country ID updated for city_id 9962.
+2024-04-16 00:01:05,545 - INFO - Remapped Country ID updated for city_id 9963.
+2024-04-16 00:01:06,769 - INFO - Remapped Country ID updated for city_id 9965.
+2024-04-16 00:01:08,121 - INFO - Remapped Country ID updated for city_id 9967.
+2024-04-16 00:01:09,388 - INFO - Remapped Country ID updated for city_id 9971.
+2024-04-16 00:01:10,760 - INFO - Remapped Country ID updated for city_id 9978.
+2024-04-16 00:01:11,970 - INFO - Remapped Country ID updated for city_id 9980.
+2024-04-16 00:01:13,173 - INFO - Remapped Country ID updated for city_id 9985.
+2024-04-16 00:01:14,365 - INFO - Remapped Country ID updated for city_id 9986.
+2024-04-16 00:01:15,567 - INFO - Remapped Country ID updated for city_id 9989.
+2024-04-16 00:01:16,767 - INFO - Remapped Country ID updated for city_id 9992.
+2024-04-16 00:01:18,037 - INFO - Remapped Country ID updated for city_id 9994.
+2024-04-16 00:01:19,170 - INFO - Remapped Country ID updated for city_id 9995.
+2024-04-16 00:01:20,458 - INFO - Remapped Country ID updated for city_id 9996.
+2024-04-16 00:01:21,754 - INFO - Remapped Country ID updated for city_id 10000.
+2024-04-16 00:01:22,987 - INFO - Remapped Country ID updated for city_id 10003.
+2024-04-16 00:01:24,265 - INFO - Remapped Country ID updated for city_id 10008.
+2024-04-16 00:01:25,478 - INFO - Remapped Country ID updated for city_id 10009.
+2024-04-16 00:01:26,673 - INFO - Remapped Country ID updated for city_id 10010.
+2024-04-16 00:01:27,977 - INFO - Remapped Country ID updated for city_id 10012.
+2024-04-16 00:01:29,174 - INFO - Remapped Country ID updated for city_id 10013.
+2024-04-16 00:01:30,459 - INFO - Remapped Country ID updated for city_id 10014.
+2024-04-16 00:01:31,655 - INFO - Remapped Country ID updated for city_id 10015.
+2024-04-16 00:01:32,863 - INFO - Remapped Country ID updated for city_id 10016.
+2024-04-16 00:01:34,561 - INFO - Remapped Country ID updated for city_id 10017.
+2024-04-16 00:01:35,766 - INFO - Remapped Country ID updated for city_id 10020.
+2024-04-16 00:01:37,058 - INFO - Remapped Country ID updated for city_id 10021.
+2024-04-16 00:01:38,276 - INFO - Remapped Country ID updated for city_id 10022.
+2024-04-16 00:01:39,462 - INFO - Remapped Country ID updated for city_id 10023.
+2024-04-16 00:01:40,682 - INFO - Remapped Country ID updated for city_id 10024.
+2024-04-16 00:01:41,867 - INFO - Remapped Country ID updated for city_id 10025.
+2024-04-16 00:01:43,100 - INFO - Remapped Country ID updated for city_id 10026.
+2024-04-16 00:01:44,347 - INFO - Remapped Country ID updated for city_id 10029.
+2024-04-16 00:01:45,570 - INFO - Remapped Country ID updated for city_id 10030.
+2024-04-16 00:01:46,770 - INFO - Remapped Country ID updated for city_id 10031.
+2024-04-16 00:01:47,962 - INFO - Remapped Country ID updated for city_id 10032.
+2024-04-16 00:01:49,240 - INFO - Remapped Country ID updated for city_id 10033.
+2024-04-16 00:01:50,380 - INFO - Remapped Country ID updated for city_id 10037.
+2024-04-16 00:01:51,616 - INFO - Remapped Country ID updated for city_id 10040.
+2024-04-16 00:01:52,839 - INFO - Remapped Country ID updated for city_id 10041.
+2024-04-16 00:01:54,053 - INFO - Remapped Country ID updated for city_id 10044.
+2024-04-16 00:01:55,279 - INFO - Remapped Country ID updated for city_id 10049.
+2024-04-16 00:01:56,560 - INFO - Remapped Country ID updated for city_id 10054.
+2024-04-16 00:01:57,855 - INFO - Remapped Country ID updated for city_id 10056.
+2024-04-16 00:01:59,081 - INFO - Remapped Country ID updated for city_id 10058.
+2024-04-16 00:02:00,367 - INFO - Remapped Country ID updated for city_id 10065.
+2024-04-16 00:02:01,639 - INFO - Remapped Country ID updated for city_id 10066.
+2024-04-16 00:02:02,953 - INFO - Remapped Country ID updated for city_id 10069.
+2024-04-16 00:02:04,546 - INFO - Remapped Country ID updated for city_id 10070.
+2024-04-16 00:02:06,347 - INFO - Remapped Country ID updated for city_id 10078.
+2024-04-16 00:02:07,638 - INFO - Remapped Country ID updated for city_id 10080.
+2024-04-16 00:02:09,140 - INFO - Remapped Country ID updated for city_id 10081.
+2024-04-16 00:02:10,396 - INFO - Remapped Country ID updated for city_id 10082.
+2024-04-16 00:02:11,766 - INFO - Remapped Country ID updated for city_id 10083.
+2024-04-16 00:02:13,164 - INFO - Remapped Country ID updated for city_id 10084.
+2024-04-16 00:02:14,367 - INFO - Remapped Country ID updated for city_id 10085.
+2024-04-16 00:02:15,560 - INFO - Remapped Country ID updated for city_id 10086.
+2024-04-16 00:02:16,869 - INFO - Remapped Country ID updated for city_id 10087.
+2024-04-16 00:02:18,178 - INFO - Remapped Country ID updated for city_id 10088.
+2024-04-16 00:02:19,440 - INFO - Remapped Country ID updated for city_id 10089.
+2024-04-16 00:02:20,654 - INFO - Remapped Country ID updated for city_id 10091.
+2024-04-16 00:02:21,879 - INFO - Remapped Country ID updated for city_id 10094.
+2024-04-16 00:02:23,059 - INFO - Remapped Country ID updated for city_id 10098.
+2024-04-16 00:02:24,267 - INFO - Remapped Country ID updated for city_id 10099.
+2024-04-16 00:02:25,537 - INFO - Remapped Country ID updated for city_id 10100.
+2024-04-16 00:02:26,763 - INFO - Remapped Country ID updated for city_id 10106.
+2024-04-16 00:02:28,059 - INFO - Remapped Country ID updated for city_id 10112.
+2024-04-16 00:02:29,356 - INFO - Remapped Country ID updated for city_id 10116.
+2024-04-16 00:02:30,648 - INFO - Remapped Country ID updated for city_id 10117.
+2024-04-16 00:02:31,879 - INFO - Remapped Country ID updated for city_id 10118.
+2024-04-16 00:02:33,065 - INFO - Remapped Country ID updated for city_id 10120.
+2024-04-16 00:02:34,456 - INFO - Remapped Country ID updated for city_id 10121.
+2024-04-16 00:02:35,752 - INFO - Remapped Country ID updated for city_id 10122.
+2024-04-16 00:02:36,976 - INFO - Remapped Country ID updated for city_id 10129.
+2024-04-16 00:02:38,236 - INFO - Remapped Country ID updated for city_id 10132.
+2024-04-16 00:02:39,462 - INFO - Remapped Country ID updated for city_id 10134.
+2024-04-16 00:02:40,657 - INFO - Remapped Country ID updated for city_id 10135.
+2024-04-16 00:02:41,864 - INFO - Remapped Country ID updated for city_id 10136.
+2024-04-16 00:02:43,135 - INFO - Remapped Country ID updated for city_id 10137.
+2024-04-16 00:02:44,436 - INFO - Remapped Country ID updated for city_id 10138.
+2024-04-16 00:02:45,671 - INFO - Remapped Country ID updated for city_id 10141.
+2024-04-16 00:02:46,963 - INFO - Remapped Country ID updated for city_id 10142.
+2024-04-16 00:02:48,174 - INFO - Remapped Country ID updated for city_id 10147.
+2024-04-16 00:02:49,439 - INFO - Remapped Country ID updated for city_id 10148.
+2024-04-16 00:02:50,654 - INFO - Remapped Country ID updated for city_id 10150.
+2024-04-16 00:02:51,964 - INFO - Remapped Country ID updated for city_id 10152.
+2024-04-16 00:02:53,285 - INFO - Remapped Country ID updated for city_id 10158.
+2024-04-16 00:02:54,476 - INFO - Remapped Country ID updated for city_id 10164.
+2024-04-16 00:02:55,668 - INFO - Remapped Country ID updated for city_id 10165.
+2024-04-16 00:02:56,940 - INFO - Remapped Country ID updated for city_id 10166.
+2024-04-16 00:02:58,174 - INFO - Remapped Country ID updated for city_id 10168.
+2024-04-16 00:02:59,366 - INFO - Remapped Country ID updated for city_id 10171.
+2024-04-16 00:03:00,753 - INFO - Remapped Country ID updated for city_id 10173.
+2024-04-16 00:03:02,169 - INFO - Remapped Country ID updated for city_id 10174.
+2024-04-16 00:03:03,438 - INFO - Remapped Country ID updated for city_id 10175.
+2024-04-16 00:03:04,752 - INFO - Remapped Country ID updated for city_id 10176.
+2024-04-16 00:03:06,035 - INFO - Remapped Country ID updated for city_id 10180.
+2024-04-16 00:03:07,849 - INFO - Remapped Country ID updated for city_id 10181.
+2024-04-16 00:03:09,349 - INFO - Remapped Country ID updated for city_id 10184.
+2024-04-16 00:03:10,568 - INFO - Remapped Country ID updated for city_id 10185.
+2024-04-16 00:03:12,042 - INFO - Remapped Country ID updated for city_id 10186.
+2024-04-16 00:03:13,280 - INFO - Remapped Country ID updated for city_id 10187.
+2024-04-16 00:03:14,478 - INFO - Remapped Country ID updated for city_id 10188.
+2024-04-16 00:03:15,684 - INFO - Remapped Country ID updated for city_id 10189.
+2024-04-16 00:03:16,938 - INFO - Remapped Country ID updated for city_id 10190.
+2024-04-16 00:03:18,258 - INFO - Remapped Country ID updated for city_id 10191.
+2024-04-16 00:03:19,648 - INFO - Remapped Country ID updated for city_id 10192.
+2024-04-16 00:03:20,863 - INFO - Remapped Country ID updated for city_id 10193.
+2024-04-16 00:03:22,073 - INFO - Remapped Country ID updated for city_id 10194.
+2024-04-16 00:03:23,278 - INFO - Remapped Country ID updated for city_id 10195.
+2024-04-16 00:03:24,548 - INFO - Remapped Country ID updated for city_id 10196.
+2024-04-16 00:03:25,776 - INFO - Remapped Country ID updated for city_id 10197.
+2024-04-16 00:03:27,036 - INFO - Remapped Country ID updated for city_id 10198.
+2024-04-16 00:03:28,279 - INFO - Remapped Country ID updated for city_id 10199.
+2024-04-16 00:03:29,470 - INFO - Remapped Country ID updated for city_id 10200.
+2024-04-16 00:03:30,677 - INFO - Remapped Country ID updated for city_id 10205.
+2024-04-16 00:03:31,882 - INFO - Remapped Country ID updated for city_id 10207.
+2024-04-16 00:03:33,137 - INFO - Remapped Country ID updated for city_id 10209.
+2024-04-16 00:03:34,381 - INFO - Remapped Country ID updated for city_id 10212.
+2024-04-16 00:03:35,648 - INFO - Remapped Country ID updated for city_id 10213.
+2024-04-16 00:03:36,864 - INFO - Remapped Country ID updated for city_id 10224.
+2024-04-16 00:03:38,080 - INFO - Remapped Country ID updated for city_id 10227.
+2024-04-16 00:03:39,438 - INFO - Remapped Country ID updated for city_id 10228.
+2024-04-16 00:03:40,759 - INFO - Remapped Country ID updated for city_id 10232.
+2024-04-16 00:03:42,008 - INFO - Remapped Country ID updated for city_id 10235.
+2024-04-16 00:03:43,272 - INFO - Remapped Country ID updated for city_id 10245.
+2024-04-16 00:03:44,468 - INFO - Remapped Country ID updated for city_id 10252.
+2024-04-16 00:03:45,674 - INFO - Remapped Country ID updated for city_id 10255.
+2024-04-16 00:03:46,953 - INFO - Remapped Country ID updated for city_id 10256.
+2024-04-16 00:03:48,250 - INFO - Remapped Country ID updated for city_id 10276.
+2024-04-16 00:03:49,585 - INFO - Remapped Country ID updated for city_id 10284.
+2024-04-16 00:03:50,774 - INFO - Remapped Country ID updated for city_id 10294.
+2024-04-16 00:03:52,039 - INFO - Remapped Country ID updated for city_id 10295.
+2024-04-16 00:03:53,262 - INFO - Remapped Country ID updated for city_id 10319.
+2024-04-16 00:03:54,466 - INFO - Remapped Country ID updated for city_id 10320.
+2024-04-16 00:03:55,699 - INFO - Remapped Country ID updated for city_id 10321.
+2024-04-16 00:03:56,876 - INFO - Remapped Country ID updated for city_id 10324.
+2024-04-16 00:03:58,170 - INFO - Remapped Country ID updated for city_id 10331.
+2024-04-16 00:03:59,436 - INFO - Remapped Country ID updated for city_id 10334.
+2024-04-16 00:04:00,749 - INFO - Remapped Country ID updated for city_id 10335.
+2024-04-16 00:04:02,054 - INFO - Remapped Country ID updated for city_id 10340.
+2024-04-16 00:04:03,349 - INFO - Remapped Country ID updated for city_id 10358.
+2024-04-16 00:04:04,651 - INFO - Remapped Country ID updated for city_id 10359.
+2024-04-16 00:04:05,985 - INFO - Remapped Country ID updated for city_id 10376.
+2024-04-16 00:04:07,338 - INFO - Remapped Country ID updated for city_id 10391.
+2024-04-16 00:04:08,748 - INFO - Remapped Country ID updated for city_id 10397.
+2024-04-16 00:04:10,353 - INFO - Remapped Country ID updated for city_id 10408.
+2024-04-16 00:04:11,763 - INFO - Remapped Country ID updated for city_id 10423.
+2024-04-16 00:04:13,267 - INFO - Remapped Country ID updated for city_id 10427.
+2024-04-16 00:04:14,467 - INFO - Remapped Country ID updated for city_id 10428.
+2024-04-16 00:04:15,674 - INFO - Remapped Country ID updated for city_id 10440.
+2024-04-16 00:04:16,880 - INFO - Remapped Country ID updated for city_id 10447.
+2024-04-16 00:04:18,101 - INFO - Remapped Country ID updated for city_id 10451.
+2024-04-16 00:04:19,357 - INFO - Remapped Country ID updated for city_id 10471.
+2024-04-16 00:04:20,581 - INFO - Remapped Country ID updated for city_id 10483.
+2024-04-16 00:04:21,958 - INFO - Remapped Country ID updated for city_id 10488.
+2024-04-16 00:04:23,264 - INFO - Remapped Country ID updated for city_id 10490.
+2024-04-16 00:04:24,467 - INFO - Remapped Country ID updated for city_id 10496.
+2024-04-16 00:04:25,676 - INFO - Remapped Country ID updated for city_id 10504.
+2024-04-16 00:04:26,940 - INFO - Remapped Country ID updated for city_id 10509.
+2024-04-16 00:04:28,165 - INFO - Remapped Country ID updated for city_id 10511.
+2024-04-16 00:04:29,368 - INFO - Remapped Country ID updated for city_id 10512.
+2024-04-16 00:04:30,569 - INFO - Remapped Country ID updated for city_id 10519.
+2024-04-16 00:04:31,771 - INFO - Remapped Country ID updated for city_id 10521.
+2024-04-16 00:04:33,041 - INFO - Remapped Country ID updated for city_id 10529.
+2024-04-16 00:04:34,557 - INFO - Remapped Country ID updated for city_id 10531.
+2024-04-16 00:04:35,784 - INFO - Remapped Country ID updated for city_id 10536.
+2024-04-16 00:04:36,969 - INFO - Remapped Country ID updated for city_id 10549.
+2024-04-16 00:04:38,235 - INFO - Remapped Country ID updated for city_id 10550.
+2024-04-16 00:04:39,468 - INFO - Remapped Country ID updated for city_id 10551.
+2024-04-16 00:04:40,773 - INFO - Remapped Country ID updated for city_id 10578.
+2024-04-16 00:04:42,067 - INFO - Remapped Country ID updated for city_id 10586.
+2024-04-16 00:04:43,379 - INFO - Remapped Country ID updated for city_id 10606.
+2024-04-16 00:04:44,577 - INFO - Remapped Country ID updated for city_id 10613.
+2024-04-16 00:04:45,842 - INFO - Remapped Country ID updated for city_id 10614.
+2024-04-16 00:04:47,136 - INFO - Remapped Country ID updated for city_id 10615.
+2024-04-16 00:04:48,365 - INFO - Remapped Country ID updated for city_id 10616.
+2024-04-16 00:04:49,583 - INFO - Remapped Country ID updated for city_id 10632.
+2024-04-16 00:04:50,763 - INFO - Remapped Country ID updated for city_id 10638.
+2024-04-16 00:04:51,966 - INFO - Remapped Country ID updated for city_id 10646.
+2024-04-16 00:04:53,169 - INFO - Remapped Country ID updated for city_id 10655.
+2024-04-16 00:04:54,440 - INFO - Remapped Country ID updated for city_id 10658.
+2024-04-16 00:04:55,679 - INFO - Remapped Country ID updated for city_id 10665.
+2024-04-16 00:04:56,954 - INFO - Remapped Country ID updated for city_id 10666.
+2024-04-16 00:04:58,171 - INFO - Remapped Country ID updated for city_id 10674.
+2024-04-16 00:04:59,448 - INFO - Remapped Country ID updated for city_id 10675.
+2024-04-16 00:05:00,737 - INFO - Remapped Country ID updated for city_id 10677.
+2024-04-16 00:05:02,092 - INFO - Remapped Country ID updated for city_id 10682.
+2024-04-16 00:05:03,338 - INFO - Remapped Country ID updated for city_id 10689.
+2024-04-16 00:05:04,569 - INFO - Remapped Country ID updated for city_id 10704.
+2024-04-16 00:05:05,768 - INFO - Remapped Country ID updated for city_id 10705.
+2024-04-16 00:05:07,039 - INFO - Remapped Country ID updated for city_id 10715.
+2024-04-16 00:05:08,306 - INFO - Remapped Country ID updated for city_id 10719.
+2024-04-16 00:05:09,470 - INFO - Remapped Country ID updated for city_id 10720.
+2024-04-16 00:05:11,752 - INFO - Remapped Country ID updated for city_id 10728.
+2024-04-16 00:05:13,260 - INFO - Remapped Country ID updated for city_id 10729.
+2024-04-16 00:05:14,473 - INFO - Remapped Country ID updated for city_id 10730.
+2024-04-16 00:05:15,754 - INFO - Remapped Country ID updated for city_id 10737.
+2024-04-16 00:05:16,963 - INFO - Remapped Country ID updated for city_id 10740.
+2024-04-16 00:05:18,165 - INFO - Remapped Country ID updated for city_id 10741.
+2024-04-16 00:05:19,466 - INFO - Remapped Country ID updated for city_id 10744.
+2024-04-16 00:05:20,668 - INFO - Remapped Country ID updated for city_id 10745.
+2024-04-16 00:05:21,941 - INFO - Remapped Country ID updated for city_id 10746.
+2024-04-16 00:05:23,165 - INFO - Remapped Country ID updated for city_id 10763.
+2024-04-16 00:05:24,372 - INFO - Remapped Country ID updated for city_id 10778.
+2024-04-16 00:05:25,639 - INFO - Remapped Country ID updated for city_id 10786.
+2024-04-16 00:05:26,863 - INFO - Remapped Country ID updated for city_id 10793.
+2024-04-16 00:05:28,141 - INFO - Remapped Country ID updated for city_id 10797.
+2024-04-16 00:05:29,377 - INFO - Remapped Country ID updated for city_id 10798.
+2024-04-16 00:05:30,763 - INFO - Remapped Country ID updated for city_id 10809.
+2024-04-16 00:05:32,069 - INFO - Remapped Country ID updated for city_id 10814.
+2024-04-16 00:05:33,282 - INFO - Remapped Country ID updated for city_id 10817.
+2024-04-16 00:05:34,467 - INFO - Remapped Country ID updated for city_id 10830.
+2024-04-16 00:05:35,837 - INFO - Remapped Country ID updated for city_id 10837.
+2024-04-16 00:05:37,161 - INFO - Remapped Country ID updated for city_id 10841.
+2024-04-16 00:05:38,452 - INFO - Remapped Country ID updated for city_id 10844.
+2024-04-16 00:05:39,672 - INFO - Remapped Country ID updated for city_id 10846.
+2024-04-16 00:05:40,872 - INFO - Remapped Country ID updated for city_id 10847.
+2024-04-16 00:05:42,157 - INFO - Remapped Country ID updated for city_id 10849.
+2024-04-16 00:05:43,375 - INFO - Remapped Country ID updated for city_id 10851.
+2024-04-16 00:05:44,573 - INFO - Remapped Country ID updated for city_id 10862.
+2024-04-16 00:05:45,794 - INFO - Remapped Country ID updated for city_id 10863.
+2024-04-16 00:05:46,973 - INFO - Remapped Country ID updated for city_id 10865.
+2024-04-16 00:05:48,185 - INFO - Remapped Country ID updated for city_id 10866.
+2024-04-16 00:05:49,438 - INFO - Remapped Country ID updated for city_id 10867.
+2024-04-16 00:05:50,675 - INFO - Remapped Country ID updated for city_id 10868.
+2024-04-16 00:05:51,962 - INFO - Remapped Country ID updated for city_id 10869.
+2024-04-16 00:05:53,163 - INFO - Remapped Country ID updated for city_id 10870.
+2024-04-16 00:05:54,441 - INFO - Remapped Country ID updated for city_id 10871.
+2024-04-16 00:05:55,671 - INFO - Remapped Country ID updated for city_id 10872.
+2024-04-16 00:05:56,876 - INFO - Remapped Country ID updated for city_id 10873.
+2024-04-16 00:05:58,170 - INFO - Remapped Country ID updated for city_id 10874.
+2024-04-16 00:05:59,457 - INFO - Remapped Country ID updated for city_id 10875.
+2024-04-16 00:06:00,664 - INFO - Remapped Country ID updated for city_id 10876.
+2024-04-16 00:06:01,958 - INFO - Remapped Country ID updated for city_id 10877.
+2024-04-16 00:06:03,175 - INFO - Remapped Country ID updated for city_id 10878.
+2024-04-16 00:06:04,439 - INFO - Remapped Country ID updated for city_id 10879.
+2024-04-16 00:06:05,754 - INFO - Remapped Country ID updated for city_id 10880.
+2024-04-16 00:06:07,038 - INFO - Remapped Country ID updated for city_id 10897.
+2024-04-16 00:06:08,338 - INFO - Remapped Country ID updated for city_id 10898.
+2024-04-16 00:06:09,576 - INFO - Remapped Country ID updated for city_id 10901.
+2024-04-16 00:06:10,791 - INFO - Remapped Country ID updated for city_id 10905.
+2024-04-16 00:06:12,042 - INFO - Remapped Country ID updated for city_id 10907.
+2024-04-16 00:06:13,652 - INFO - Remapped Country ID updated for city_id 10915.
+2024-04-16 00:06:14,876 - INFO - Remapped Country ID updated for city_id 10917.
+2024-04-16 00:06:16,182 - INFO - Remapped Country ID updated for city_id 10918.
+2024-04-16 00:06:17,444 - INFO - Remapped Country ID updated for city_id 10919.
+2024-04-16 00:06:18,637 - INFO - Remapped Country ID updated for city_id 10923.
+2024-04-16 00:06:19,867 - INFO - Remapped Country ID updated for city_id 10925.
+2024-04-16 00:06:21,160 - INFO - Remapped Country ID updated for city_id 10927.
+2024-04-16 00:06:22,463 - INFO - Remapped Country ID updated for city_id 10928.
+2024-04-16 00:06:23,674 - INFO - Remapped Country ID updated for city_id 10931.
+2024-04-16 00:06:24,939 - INFO - Remapped Country ID updated for city_id 10934.
+2024-04-16 00:06:26,190 - INFO - Remapped Country ID updated for city_id 10937.
+2024-04-16 00:06:27,476 - INFO - Remapped Country ID updated for city_id 10939.
+2024-04-16 00:06:28,689 - INFO - Remapped Country ID updated for city_id 10940.
+2024-04-16 00:06:29,975 - INFO - Remapped Country ID updated for city_id 10941.
+2024-04-16 00:06:31,257 - INFO - Remapped Country ID updated for city_id 10942.
+2024-04-16 00:06:32,547 - INFO - Remapped Country ID updated for city_id 10944.
+2024-04-16 00:06:33,792 - INFO - Remapped Country ID updated for city_id 10945.
+2024-04-16 00:06:34,968 - INFO - Remapped Country ID updated for city_id 10947.
+2024-04-16 00:06:36,169 - INFO - Remapped Country ID updated for city_id 10948.
+2024-04-16 00:06:37,438 - INFO - Remapped Country ID updated for city_id 10969.
+2024-04-16 00:06:38,745 - INFO - Remapped Country ID updated for city_id 10972.
+2024-04-16 00:06:39,952 - INFO - Remapped Country ID updated for city_id 10973.
+2024-04-16 00:06:41,239 - INFO - Remapped Country ID updated for city_id 10974.
+2024-04-16 00:06:42,459 - INFO - Remapped Country ID updated for city_id 10975.
+2024-04-16 00:06:43,688 - INFO - Remapped Country ID updated for city_id 11002.
+2024-04-16 00:06:44,865 - INFO - Remapped Country ID updated for city_id 11003.
+2024-04-16 00:06:46,142 - INFO - Remapped Country ID updated for city_id 11004.
+2024-04-16 00:06:47,364 - INFO - Remapped Country ID updated for city_id 11008.
+2024-04-16 00:06:48,665 - INFO - Remapped Country ID updated for city_id 11009.
+2024-04-16 00:06:49,874 - INFO - Remapped Country ID updated for city_id 11010.
+2024-04-16 00:06:51,138 - INFO - Remapped Country ID updated for city_id 11013.
+2024-04-16 00:06:52,394 - INFO - Remapped Country ID updated for city_id 11015.
+2024-04-16 00:06:53,673 - INFO - Remapped Country ID updated for city_id 11018.
+2024-04-16 00:06:54,895 - INFO - Remapped Country ID updated for city_id 11021.
+2024-04-16 00:06:56,068 - INFO - Remapped Country ID updated for city_id 11025.
+2024-04-16 00:06:57,278 - INFO - Remapped Country ID updated for city_id 11027.
+2024-04-16 00:06:58,493 - INFO - Remapped Country ID updated for city_id 11028.
+2024-04-16 00:06:59,670 - INFO - Remapped Country ID updated for city_id 11029.
+2024-04-16 00:07:00,942 - INFO - Remapped Country ID updated for city_id 11030.
+2024-04-16 00:07:02,340 - INFO - Remapped Country ID updated for city_id 11032.
+2024-04-16 00:07:03,668 - INFO - Remapped Country ID updated for city_id 11033.
+2024-04-16 00:07:04,963 - INFO - Remapped Country ID updated for city_id 11034.
+2024-04-16 00:07:06,177 - INFO - Remapped Country ID updated for city_id 11036.
+2024-04-16 00:07:07,481 - INFO - Remapped Country ID updated for city_id 11037.
+2024-04-16 00:07:08,781 - INFO - Remapped Country ID updated for city_id 11038.
+2024-04-16 00:07:09,964 - INFO - Remapped Country ID updated for city_id 11039.
+2024-04-16 00:07:11,339 - INFO - Remapped Country ID updated for city_id 11040.
+2024-04-16 00:07:12,475 - INFO - Remapped Country ID updated for city_id 11041.
+2024-04-16 00:07:14,647 - INFO - Remapped Country ID updated for city_id 11042.
+2024-04-16 00:07:15,867 - INFO - Remapped Country ID updated for city_id 11043.
+2024-04-16 00:07:17,071 - INFO - Remapped Country ID updated for city_id 11044.
+2024-04-16 00:07:18,271 - INFO - Remapped Country ID updated for city_id 11045.
+2024-04-16 00:07:19,482 - INFO - Remapped Country ID updated for city_id 11046.
+2024-04-16 00:07:20,763 - INFO - Remapped Country ID updated for city_id 11047.
+2024-04-16 00:07:21,969 - INFO - Remapped Country ID updated for city_id 11048.
+2024-04-16 00:07:23,174 - INFO - Remapped Country ID updated for city_id 11050.
+2024-04-16 00:07:24,385 - INFO - Remapped Country ID updated for city_id 11051.
+2024-04-16 00:07:25,564 - INFO - Remapped Country ID updated for city_id 11052.
+2024-04-16 00:07:26,772 - INFO - Remapped Country ID updated for city_id 11053.
+2024-04-16 00:07:27,974 - INFO - Remapped Country ID updated for city_id 11054.
+2024-04-16 00:07:29,273 - INFO - Remapped Country ID updated for city_id 11055.
+2024-04-16 00:07:30,578 - INFO - Remapped Country ID updated for city_id 11056.
+2024-04-16 00:07:31,786 - INFO - Remapped Country ID updated for city_id 11058.
+2024-04-16 00:07:32,967 - INFO - Remapped Country ID updated for city_id 11059.
+2024-04-16 00:07:34,652 - INFO - Remapped Country ID updated for city_id 11060.
+2024-04-16 00:07:35,840 - INFO - Remapped Country ID updated for city_id 11063.
+2024-04-16 00:07:37,145 - INFO - Remapped Country ID updated for city_id 11064.
+2024-04-16 00:07:38,440 - INFO - Remapped Country ID updated for city_id 11066.
+2024-04-16 00:07:39,676 - INFO - Remapped Country ID updated for city_id 11067.
+2024-04-16 00:07:40,874 - INFO - Remapped Country ID updated for city_id 11068.
+2024-04-16 00:07:42,074 - INFO - Remapped Country ID updated for city_id 11069.
+2024-04-16 00:07:43,338 - INFO - Remapped Country ID updated for city_id 11078.
+2024-04-16 00:07:44,554 - ERROR - Error updating Remapped Country ID for city_id New: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New
+2024-04-16 00:07:45,783 - ERROR - Error updating Remapped Country ID for city_id New: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New
+2024-04-16 00:07:46,956 - ERROR - Error updating Remapped Country ID for city_id NEW 1: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/NEW%201
+2024-04-16 00:07:48,084 - ERROR - Error updating Remapped Country ID for city_id New 10: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2010
+2024-04-16 00:07:49,256 - ERROR - Error updating Remapped Country ID for city_id New 100: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20100
+2024-04-16 00:07:50,486 - ERROR - Error updating Remapped Country ID for city_id New 101: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20101
+2024-04-16 00:07:51,781 - ERROR - Error updating Remapped Country ID for city_id New 102: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20102
+2024-04-16 00:07:53,077 - ERROR - Error updating Remapped Country ID for city_id New 103: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20103
+2024-04-16 00:07:54,360 - ERROR - Error updating Remapped Country ID for city_id New 104: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20104
+2024-04-16 00:07:55,561 - ERROR - Error updating Remapped Country ID for city_id New 105: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20105
+2024-04-16 00:07:56,776 - ERROR - Error updating Remapped Country ID for city_id New 106: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20106
+2024-04-16 00:07:57,999 - ERROR - Error updating Remapped Country ID for city_id New 107: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20107
+2024-04-16 00:07:59,171 - ERROR - Error updating Remapped Country ID for city_id New 108: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20108
+2024-04-16 00:08:00,440 - ERROR - Error updating Remapped Country ID for city_id New 109: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20109
+2024-04-16 00:08:01,658 - ERROR - Error updating Remapped Country ID for city_id New 11: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2011
+2024-04-16 00:08:02,888 - ERROR - Error updating Remapped Country ID for city_id New 110: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20110
+2024-04-16 00:08:04,546 - ERROR - Error updating Remapped Country ID for city_id New 111: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20111
+2024-04-16 00:08:05,694 - ERROR - Error updating Remapped Country ID for city_id New 112: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20112
+2024-04-16 00:08:06,859 - ERROR - Error updating Remapped Country ID for city_id New 113: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20113
+2024-04-16 00:08:08,058 - ERROR - Error updating Remapped Country ID for city_id New 114: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20114
+2024-04-16 00:08:09,455 - ERROR - Error updating Remapped Country ID for city_id New 115: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20115
+2024-04-16 00:08:10,682 - ERROR - Error updating Remapped Country ID for city_id New 116: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20116
+2024-04-16 00:08:11,954 - ERROR - Error updating Remapped Country ID for city_id New 117: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20117
+2024-04-16 00:08:13,440 - ERROR - Error updating Remapped Country ID for city_id New 118: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20118
+2024-04-16 00:08:15,242 - ERROR - Error updating Remapped Country ID for city_id New 119: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20119
+2024-04-16 00:08:16,455 - ERROR - Error updating Remapped Country ID for city_id New 12: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2012
+2024-04-16 00:08:17,643 - ERROR - Error updating Remapped Country ID for city_id New 120: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20120
+2024-04-16 00:08:18,791 - ERROR - Error updating Remapped Country ID for city_id New 121: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20121
+2024-04-16 00:08:19,944 - ERROR - Error updating Remapped Country ID for city_id New 122: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20122
+2024-04-16 00:08:21,158 - ERROR - Error updating Remapped Country ID for city_id New 123: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20123
+2024-04-16 00:08:22,362 - ERROR - Error updating Remapped Country ID for city_id New 124: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20124
+2024-04-16 00:08:23,642 - ERROR - Error updating Remapped Country ID for city_id New 125: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20125
+2024-04-16 00:08:24,917 - ERROR - Error updating Remapped Country ID for city_id New 126: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20126
+2024-04-16 00:08:26,081 - ERROR - Error updating Remapped Country ID for city_id New 127: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20127
+2024-04-16 00:08:27,290 - ERROR - Error updating Remapped Country ID for city_id New 128: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20128
+2024-04-16 00:08:28,456 - ERROR - Error updating Remapped Country ID for city_id New 129: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20129
+2024-04-16 00:08:29,658 - ERROR - Error updating Remapped Country ID for city_id New 13: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2013
+2024-04-16 00:08:30,840 - ERROR - Error updating Remapped Country ID for city_id New 130: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20130
+2024-04-16 00:08:32,073 - ERROR - Error updating Remapped Country ID for city_id New 131: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20131
+2024-04-16 00:08:33,358 - ERROR - Error updating Remapped Country ID for city_id New 132: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20132
+2024-04-16 00:08:34,583 - ERROR - Error updating Remapped Country ID for city_id New 133: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20133
+2024-04-16 00:08:35,785 - ERROR - Error updating Remapped Country ID for city_id New 134: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20134
+2024-04-16 00:08:36,954 - ERROR - Error updating Remapped Country ID for city_id New 135: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20135
+2024-04-16 00:08:38,160 - ERROR - Error updating Remapped Country ID for city_id New 136: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20136
+2024-04-16 00:08:39,385 - ERROR - Error updating Remapped Country ID for city_id New 137: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20137
+2024-04-16 00:08:40,563 - ERROR - Error updating Remapped Country ID for city_id New 138: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20138
+2024-04-16 00:08:41,819 - ERROR - Error updating Remapped Country ID for city_id New 139: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20139
+2024-04-16 00:08:43,156 - ERROR - Error updating Remapped Country ID for city_id New 14: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2014
+2024-04-16 00:08:44,345 - ERROR - Error updating Remapped Country ID for city_id New 140: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20140
+2024-04-16 00:08:45,493 - ERROR - Error updating Remapped Country ID for city_id New 141: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20141
+2024-04-16 00:08:46,661 - ERROR - Error updating Remapped Country ID for city_id New 142: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20142
+2024-04-16 00:08:47,858 - ERROR - Error updating Remapped Country ID for city_id New 143: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20143
+2024-04-16 00:08:49,073 - ERROR - Error updating Remapped Country ID for city_id New 144: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20144
+2024-04-16 00:08:50,361 - ERROR - Error updating Remapped Country ID for city_id New 145: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20145
+2024-04-16 00:08:51,475 - ERROR - Error updating Remapped Country ID for city_id New 146: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20146
+2024-04-16 00:08:52,581 - ERROR - Error updating Remapped Country ID for city_id New 147: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20147
+2024-04-16 00:08:53,760 - ERROR - Error updating Remapped Country ID for city_id New 148: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20148
+2024-04-16 00:08:54,940 - ERROR - Error updating Remapped Country ID for city_id New 149: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20149
+2024-04-16 00:08:56,157 - ERROR - Error updating Remapped Country ID for city_id New 15: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2015
+2024-04-16 00:08:57,344 - ERROR - Error updating Remapped Country ID for city_id New 150: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20150
+2024-04-16 00:08:58,459 - ERROR - Error updating Remapped Country ID for city_id New 151: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20151
+2024-04-16 00:08:59,645 - ERROR - Error updating Remapped Country ID for city_id New 152: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20152
+2024-04-16 00:09:00,754 - ERROR - Error updating Remapped Country ID for city_id New 153: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20153
+2024-04-16 00:09:01,915 - ERROR - Error updating Remapped Country ID for city_id New 154: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20154
+2024-04-16 00:09:03,102 - ERROR - Error updating Remapped Country ID for city_id New 155: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20155
+2024-04-16 00:09:04,466 - ERROR - Error updating Remapped Country ID for city_id New 156: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20156
+2024-04-16 00:09:05,641 - ERROR - Error updating Remapped Country ID for city_id New 157: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20157
+2024-04-16 00:09:06,781 - ERROR - Error updating Remapped Country ID for city_id New 158: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20158
+2024-04-16 00:09:07,953 - ERROR - Error updating Remapped Country ID for city_id New 16: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2016
+2024-04-16 00:09:09,236 - ERROR - Error updating Remapped Country ID for city_id New 160: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20160
+2024-04-16 00:09:10,458 - ERROR - Error updating Remapped Country ID for city_id New 161: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20161
+2024-04-16 00:09:11,661 - ERROR - Error updating Remapped Country ID for city_id New 162: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20162
+2024-04-16 00:09:12,852 - ERROR - Error updating Remapped Country ID for city_id New 163: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20163
+2024-04-16 00:09:14,240 - ERROR - Error updating Remapped Country ID for city_id New 164: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20164
+2024-04-16 00:09:15,550 - ERROR - Error updating Remapped Country ID for city_id New 165: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20165
+2024-04-16 00:09:16,769 - ERROR - Error updating Remapped Country ID for city_id New 166: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20166
+2024-04-16 00:09:17,873 - ERROR - Error updating Remapped Country ID for city_id New 167: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20167
+2024-04-16 00:09:19,045 - ERROR - Error updating Remapped Country ID for city_id New 168: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20168
+2024-04-16 00:09:20,195 - ERROR - Error updating Remapped Country ID for city_id New 169: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20169
+2024-04-16 00:09:21,347 - ERROR - Error updating Remapped Country ID for city_id New 17: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2017
+2024-04-16 00:09:22,470 - ERROR - Error updating Remapped Country ID for city_id New 170: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20170
+2024-04-16 00:09:23,677 - ERROR - Error updating Remapped Country ID for city_id New 171: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20171
+2024-04-16 00:09:24,842 - ERROR - Error updating Remapped Country ID for city_id New 172: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20172
+2024-04-16 00:09:26,044 - ERROR - Error updating Remapped Country ID for city_id New 173: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20173
+2024-04-16 00:09:27,165 - ERROR - Error updating Remapped Country ID for city_id New 174: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20174
+2024-04-16 00:09:28,281 - ERROR - Error updating Remapped Country ID for city_id New 175: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20175
+2024-04-16 00:09:29,440 - ERROR - Error updating Remapped Country ID for city_id New 176: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20176
+2024-04-16 00:09:30,591 - ERROR - Error updating Remapped Country ID for city_id New 177: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20177
+2024-04-16 00:09:31,738 - ERROR - Error updating Remapped Country ID for city_id New 178: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20178
+2024-04-16 00:09:32,772 - ERROR - Error updating Remapped Country ID for city_id New 179: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20179
+2024-04-16 00:09:34,437 - ERROR - Error updating Remapped Country ID for city_id New 18: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2018
+2024-04-16 00:09:35,587 - ERROR - Error updating Remapped Country ID for city_id New 180: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20180
+2024-04-16 00:09:36,750 - ERROR - Error updating Remapped Country ID for city_id New 181: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20181
+2024-04-16 00:09:37,956 - ERROR - Error updating Remapped Country ID for city_id New 184: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20184
+2024-04-16 00:09:39,152 - ERROR - Error updating Remapped Country ID for city_id New 185: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20185
+2024-04-16 00:09:40,271 - ERROR - Error updating Remapped Country ID for city_id New 186: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20186
+2024-04-16 00:09:41,653 - ERROR - Error updating Remapped Country ID for city_id New 187: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20187
+2024-04-16 00:09:42,865 - ERROR - Error updating Remapped Country ID for city_id New 188: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20188
+2024-04-16 00:09:44,262 - ERROR - Error updating Remapped Country ID for city_id New 189: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20189
+2024-04-16 00:09:45,473 - ERROR - Error updating Remapped Country ID for city_id New 19: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2019
+2024-04-16 00:09:46,643 - ERROR - Error updating Remapped Country ID for city_id New 190: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20190
+2024-04-16 00:09:47,764 - ERROR - Error updating Remapped Country ID for city_id New 191: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20191
+2024-04-16 00:09:48,949 - ERROR - Error updating Remapped Country ID for city_id New 192: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20192
+2024-04-16 00:09:50,144 - ERROR - Error updating Remapped Country ID for city_id New 193: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20193
+2024-04-16 00:09:51,355 - ERROR - Error updating Remapped Country ID for city_id New 194: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20194
+2024-04-16 00:09:52,599 - ERROR - Error updating Remapped Country ID for city_id New 195: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20195
+2024-04-16 00:09:53,869 - ERROR - Error updating Remapped Country ID for city_id New 196: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20196
+2024-04-16 00:09:55,057 - ERROR - Error updating Remapped Country ID for city_id New 197: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20197
+2024-04-16 00:09:56,246 - ERROR - Error updating Remapped Country ID for city_id New 198: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20198
+2024-04-16 00:09:57,382 - ERROR - Error updating Remapped Country ID for city_id New 199: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20199
+2024-04-16 00:09:58,645 - ERROR - Error updating Remapped Country ID for city_id NEW 2: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/NEW%202
+2024-04-16 00:09:59,860 - ERROR - Error updating Remapped Country ID for city_id New 20: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2020
+2024-04-16 00:10:01,069 - ERROR - Error updating Remapped Country ID for city_id New 200: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20200
+2024-04-16 00:10:02,350 - ERROR - Error updating Remapped Country ID for city_id New 201: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20201
+2024-04-16 00:10:03,545 - ERROR - Error updating Remapped Country ID for city_id New 202: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20202
+2024-04-16 00:10:04,692 - ERROR - Error updating Remapped Country ID for city_id New 203: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20203
+2024-04-16 00:10:05,866 - ERROR - Error updating Remapped Country ID for city_id New 204: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20204
+2024-04-16 00:10:07,086 - ERROR - Error updating Remapped Country ID for city_id New 205: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20205
+2024-04-16 00:10:08,283 - ERROR - Error updating Remapped Country ID for city_id New 206: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20206
+2024-04-16 00:10:09,462 - ERROR - Error updating Remapped Country ID for city_id New 207: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20207
+2024-04-16 00:10:10,645 - ERROR - Error updating Remapped Country ID for city_id New 208: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20208
+2024-04-16 00:10:11,785 - ERROR - Error updating Remapped Country ID for city_id New 209: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20209
+2024-04-16 00:10:12,874 - ERROR - Error updating Remapped Country ID for city_id New 21: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2021
+2024-04-16 00:10:14,259 - ERROR - Error updating Remapped Country ID for city_id New 210: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20210
+2024-04-16 00:10:15,483 - ERROR - Error updating Remapped Country ID for city_id New 211: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20211
+2024-04-16 00:10:16,867 - ERROR - Error updating Remapped Country ID for city_id New 212: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20212
+2024-04-16 00:10:18,051 - ERROR - Error updating Remapped Country ID for city_id New 213: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20213
+2024-04-16 00:10:19,165 - ERROR - Error updating Remapped Country ID for city_id New 214: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20214
+2024-04-16 00:10:20,391 - ERROR - Error updating Remapped Country ID for city_id New 215: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20215
+2024-04-16 00:10:21,556 - ERROR - Error updating Remapped Country ID for city_id New 216: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20216
+2024-04-16 00:10:22,750 - ERROR - Error updating Remapped Country ID for city_id New 217: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20217
+2024-04-16 00:10:23,941 - ERROR - Error updating Remapped Country ID for city_id New 218: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20218
+2024-04-16 00:10:25,145 - ERROR - Error updating Remapped Country ID for city_id New 219: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20219
+2024-04-16 00:10:26,339 - ERROR - Error updating Remapped Country ID for city_id New 22: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2022
+2024-04-16 00:10:27,550 - ERROR - Error updating Remapped Country ID for city_id New 220: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20220
+2024-04-16 00:10:28,670 - ERROR - Error updating Remapped Country ID for city_id New 221: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20221
+2024-04-16 00:10:29,841 - ERROR - Error updating Remapped Country ID for city_id New 222: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20222
+2024-04-16 00:10:30,956 - ERROR - Error updating Remapped Country ID for city_id New 223: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20223
+2024-04-16 00:10:32,155 - ERROR - Error updating Remapped Country ID for city_id New 224: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20224
+2024-04-16 00:10:33,295 - ERROR - Error updating Remapped Country ID for city_id New 225: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20225
+2024-04-16 00:10:34,479 - ERROR - Error updating Remapped Country ID for city_id New 226: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20226
+2024-04-16 00:10:35,750 - ERROR - Error updating Remapped Country ID for city_id New 227: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20227
+2024-04-16 00:10:36,940 - ERROR - Error updating Remapped Country ID for city_id New 228: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20228
+2024-04-16 00:10:38,146 - ERROR - Error updating Remapped Country ID for city_id New 229: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20229
+2024-04-16 00:10:39,465 - ERROR - Error updating Remapped Country ID for city_id New 23: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2023
+2024-04-16 00:10:40,694 - ERROR - Error updating Remapped Country ID for city_id New 230: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20230
+2024-04-16 00:10:41,842 - ERROR - Error updating Remapped Country ID for city_id New 231: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20231
+2024-04-16 00:10:42,954 - ERROR - Error updating Remapped Country ID for city_id New 232: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20232
+2024-04-16 00:10:44,266 - ERROR - Error updating Remapped Country ID for city_id New 233: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20233
+2024-04-16 00:10:45,443 - ERROR - Error updating Remapped Country ID for city_id New 234: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20234
+2024-04-16 00:10:46,595 - ERROR - Error updating Remapped Country ID for city_id New 235: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20235
+2024-04-16 00:10:47,778 - ERROR - Error updating Remapped Country ID for city_id New 236: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20236
+2024-04-16 00:10:48,937 - ERROR - Error updating Remapped Country ID for city_id New 237: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20237
+2024-04-16 00:10:50,144 - ERROR - Error updating Remapped Country ID for city_id New 238: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20238
+2024-04-16 00:10:51,279 - ERROR - Error updating Remapped Country ID for city_id New 239: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20239
+2024-04-16 00:10:52,446 - ERROR - Error updating Remapped Country ID for city_id New 24: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2024
+2024-04-16 00:10:53,581 - ERROR - Error updating Remapped Country ID for city_id New 240: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20240
+2024-04-16 00:10:54,749 - ERROR - Error updating Remapped Country ID for city_id New 241: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20241
+2024-04-16 00:10:55,937 - ERROR - Error updating Remapped Country ID for city_id New 242: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20242
+2024-04-16 00:10:57,070 - ERROR - Error updating Remapped Country ID for city_id New 243: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20243
+2024-04-16 00:10:58,246 - ERROR - Error updating Remapped Country ID for city_id New 244: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20244
+2024-04-16 00:10:59,459 - ERROR - Error updating Remapped Country ID for city_id New 245: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20245
+2024-04-16 00:11:00,581 - ERROR - Error updating Remapped Country ID for city_id New 246: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20246
+2024-04-16 00:11:01,760 - ERROR - Error updating Remapped Country ID for city_id New 247: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20247
+2024-04-16 00:11:02,948 - ERROR - Error updating Remapped Country ID for city_id New 248: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20248
+2024-04-16 00:11:04,463 - ERROR - Error updating Remapped Country ID for city_id New 249: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20249
+2024-04-16 00:11:05,657 - ERROR - Error updating Remapped Country ID for city_id New 25: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2025
+2024-04-16 00:11:06,793 - ERROR - Error updating Remapped Country ID for city_id New 250: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20250
+2024-04-16 00:11:07,958 - ERROR - Error updating Remapped Country ID for city_id New 251: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20251
+2024-04-16 00:11:09,063 - ERROR - Error updating Remapped Country ID for city_id New 252: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20252
+2024-04-16 00:11:10,257 - ERROR - Error updating Remapped Country ID for city_id New 253: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20253
+2024-04-16 00:11:11,445 - ERROR - Error updating Remapped Country ID for city_id New 254: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20254
+2024-04-16 00:11:12,642 - ERROR - Error updating Remapped Country ID for city_id New 255: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20255
+2024-04-16 00:11:13,846 - ERROR - Error updating Remapped Country ID for city_id New 256: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20256
+2024-04-16 00:11:15,046 - ERROR - Error updating Remapped Country ID for city_id New 257: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20257
+2024-04-16 00:11:16,282 - ERROR - Error updating Remapped Country ID for city_id New 258: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20258
+2024-04-16 00:11:17,455 - ERROR - Error updating Remapped Country ID for city_id New 259: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20259
+2024-04-16 00:11:18,674 - ERROR - Error updating Remapped Country ID for city_id New 26: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2026
+2024-04-16 00:11:19,856 - ERROR - Error updating Remapped Country ID for city_id New 260: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20260
+2024-04-16 00:11:21,082 - ERROR - Error updating Remapped Country ID for city_id New 261: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20261
+2024-04-16 00:11:22,255 - ERROR - Error updating Remapped Country ID for city_id New 262: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20262
+2024-04-16 00:11:23,382 - ERROR - Error updating Remapped Country ID for city_id New 263: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20263
+2024-04-16 00:11:24,544 - ERROR - Error updating Remapped Country ID for city_id New 264: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20264
+2024-04-16 00:11:25,656 - ERROR - Error updating Remapped Country ID for city_id New 27: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2027
+2024-04-16 00:11:26,762 - ERROR - Error updating Remapped Country ID for city_id New 270: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20270
+2024-04-16 00:11:27,953 - ERROR - Error updating Remapped Country ID for city_id New 271: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20271
+2024-04-16 00:11:29,162 - ERROR - Error updating Remapped Country ID for city_id New 272: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20272
+2024-04-16 00:11:30,360 - ERROR - Error updating Remapped Country ID for city_id New 273: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20273
+2024-04-16 00:11:31,542 - ERROR - Error updating Remapped Country ID for city_id New 275: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20275
+2024-04-16 00:11:32,674 - ERROR - Error updating Remapped Country ID for city_id New 276: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20276
+2024-04-16 00:11:33,774 - ERROR - Error updating Remapped Country ID for city_id New 277: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20277
+2024-04-16 00:11:34,978 - ERROR - Error updating Remapped Country ID for city_id New 278: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20278
+2024-04-16 00:11:36,242 - ERROR - Error updating Remapped Country ID for city_id New 279: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20279
+2024-04-16 00:11:37,381 - ERROR - Error updating Remapped Country ID for city_id New 28: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2028
+2024-04-16 00:11:38,484 - ERROR - Error updating Remapped Country ID for city_id New 280: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20280
+2024-04-16 00:11:39,645 - ERROR - Error updating Remapped Country ID for city_id New 281: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20281
+2024-04-16 00:11:40,767 - ERROR - Error updating Remapped Country ID for city_id New 282: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20282
+2024-04-16 00:11:41,940 - ERROR - Error updating Remapped Country ID for city_id New 283: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20283
+2024-04-16 00:11:43,240 - ERROR - Error updating Remapped Country ID for city_id New 284: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20284
+2024-04-16 00:11:44,441 - ERROR - Error updating Remapped Country ID for city_id New 285: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20285
+2024-04-16 00:11:45,645 - ERROR - Error updating Remapped Country ID for city_id New 286: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20286
+2024-04-16 00:11:46,856 - ERROR - Error updating Remapped Country ID for city_id New 287: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20287
+2024-04-16 00:11:48,042 - ERROR - Error updating Remapped Country ID for city_id New 288: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20288
+2024-04-16 00:11:49,240 - ERROR - Error updating Remapped Country ID for city_id New 289: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20289
+2024-04-16 00:11:50,453 - ERROR - Error updating Remapped Country ID for city_id New 290: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20290
+2024-04-16 00:11:51,643 - ERROR - Error updating Remapped Country ID for city_id New 291: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20291
+2024-04-16 00:11:52,761 - ERROR - Error updating Remapped Country ID for city_id New 292: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20292
+2024-04-16 00:11:53,861 - ERROR - Error updating Remapped Country ID for city_id New 293: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20293
+2024-04-16 00:11:54,990 - ERROR - Error updating Remapped Country ID for city_id New 294: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20294
+2024-04-16 00:11:56,140 - ERROR - Error updating Remapped Country ID for city_id New 295: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20295
+2024-04-16 00:11:57,239 - ERROR - Error updating Remapped Country ID for city_id New 296: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20296
+2024-04-16 00:11:58,454 - ERROR - Error updating Remapped Country ID for city_id New 297: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20297
+2024-04-16 00:11:59,638 - ERROR - Error updating Remapped Country ID for city_id New 298: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20298
+2024-04-16 00:12:00,848 - ERROR - Error updating Remapped Country ID for city_id New 299: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20299
+2024-04-16 00:12:02,082 - ERROR - Error updating Remapped Country ID for city_id NEW 3: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/NEW%203
+2024-04-16 00:12:03,282 - ERROR - Error updating Remapped Country ID for city_id New 30: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2030
+2024-04-16 00:12:04,464 - ERROR - Error updating Remapped Country ID for city_id New 300: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20300
+2024-04-16 00:12:05,739 - ERROR - Error updating Remapped Country ID for city_id New 301: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20301
+2024-04-16 00:12:06,858 - ERROR - Error updating Remapped Country ID for city_id New 302: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20302
+2024-04-16 00:12:08,002 - ERROR - Error updating Remapped Country ID for city_id New 302: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20302
+2024-04-16 00:12:09,337 - ERROR - Error updating Remapped Country ID for city_id New 303: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20303
+2024-04-16 00:12:10,544 - ERROR - Error updating Remapped Country ID for city_id New 304: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20304
+2024-04-16 00:12:11,753 - ERROR - Error updating Remapped Country ID for city_id New 304: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20304
+2024-04-16 00:12:12,879 - ERROR - Error updating Remapped Country ID for city_id New 305: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20305
+2024-04-16 00:12:14,265 - ERROR - Error updating Remapped Country ID for city_id New 305: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20305
+2024-04-16 00:12:15,464 - ERROR - Error updating Remapped Country ID for city_id New 306: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20306
+2024-04-16 00:12:16,665 - ERROR - Error updating Remapped Country ID for city_id New 308: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20308
+2024-04-16 00:12:17,841 - ERROR - Error updating Remapped Country ID for city_id New 309: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20309
+2024-04-16 00:12:19,439 - ERROR - Error updating Remapped Country ID for city_id New 31: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2031
+2024-04-16 00:12:20,558 - ERROR - Error updating Remapped Country ID for city_id New 310: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20310
+2024-04-16 00:12:21,678 - ERROR - Error updating Remapped Country ID for city_id New 311: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20311
+2024-04-16 00:12:22,842 - ERROR - Error updating Remapped Country ID for city_id New 312: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20312
+2024-04-16 00:12:24,042 - ERROR - Error updating Remapped Country ID for city_id New 313: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20313
+2024-04-16 00:12:25,243 - ERROR - Error updating Remapped Country ID for city_id New 314: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20314
+2024-04-16 00:12:26,438 - ERROR - Error updating Remapped Country ID for city_id New 315: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20315
+2024-04-16 00:12:27,641 - ERROR - Error updating Remapped Country ID for city_id New 316: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20316
+2024-04-16 00:12:28,741 - ERROR - Error updating Remapped Country ID for city_id New 318: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20318
+2024-04-16 00:12:29,841 - ERROR - Error updating Remapped Country ID for city_id New 319: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20319
+2024-04-16 00:12:31,038 - ERROR - Error updating Remapped Country ID for city_id New 32: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2032
+2024-04-16 00:12:32,241 - ERROR - Error updating Remapped Country ID for city_id New 320: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20320
+2024-04-16 00:12:33,365 - ERROR - Error updating Remapped Country ID for city_id New 321: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20321
+2024-04-16 00:12:34,476 - ERROR - Error updating Remapped Country ID for city_id New 322: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20322
+2024-04-16 00:12:35,645 - ERROR - Error updating Remapped Country ID for city_id New 323: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20323
+2024-04-16 00:12:36,761 - ERROR - Error updating Remapped Country ID for city_id New 324: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20324
+2024-04-16 00:12:37,953 - ERROR - Error updating Remapped Country ID for city_id New 325: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20325
+2024-04-16 00:12:39,076 - ERROR - Error updating Remapped Country ID for city_id New 326: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20326
+2024-04-16 00:12:40,279 - ERROR - Error updating Remapped Country ID for city_id New 327: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%20327
+2024-04-16 00:12:41,738 - ERROR - Error updating Remapped Country ID for city_id New 33: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2033
+2024-04-16 00:12:42,889 - ERROR - Error updating Remapped Country ID for city_id New 34: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2034
+2024-04-16 00:12:44,251 - ERROR - Error updating Remapped Country ID for city_id New 35: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2035
+2024-04-16 00:12:45,351 - ERROR - Error updating Remapped Country ID for city_id New 36: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2036
+2024-04-16 00:12:46,477 - ERROR - Error updating Remapped Country ID for city_id New 37: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2037
+2024-04-16 00:12:47,666 - ERROR - Error updating Remapped Country ID for city_id New 38: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2038
+2024-04-16 00:12:48,871 - ERROR - Error updating Remapped Country ID for city_id New 39: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2039
+2024-04-16 00:12:50,085 - ERROR - Error updating Remapped Country ID for city_id New 4: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%204
+2024-04-16 00:12:51,176 - ERROR - Error updating Remapped Country ID for city_id New 40: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2040
+2024-04-16 00:12:52,340 - ERROR - Error updating Remapped Country ID for city_id New 41: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2041
+2024-04-16 00:12:53,446 - ERROR - Error updating Remapped Country ID for city_id New 42: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2042
+2024-04-16 00:12:54,567 - ERROR - Error updating Remapped Country ID for city_id New 43: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2043
+2024-04-16 00:12:55,784 - ERROR - Error updating Remapped Country ID for city_id New 44: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2044
+2024-04-16 00:12:56,942 - ERROR - Error updating Remapped Country ID for city_id New 45: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2045
+2024-04-16 00:12:58,040 - ERROR - Error updating Remapped Country ID for city_id New 46: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2046
+2024-04-16 00:12:59,090 - ERROR - Error updating Remapped Country ID for city_id New 47: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2047
+2024-04-16 00:13:00,265 - ERROR - Error updating Remapped Country ID for city_id New 48: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2048
+2024-04-16 00:13:01,445 - ERROR - Error updating Remapped Country ID for city_id New 49: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2049
+2024-04-16 00:13:02,643 - ERROR - Error updating Remapped Country ID for city_id New 50: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2050
+2024-04-16 00:13:03,955 - ERROR - Error updating Remapped Country ID for city_id New 51: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2051
+2024-04-16 00:13:05,162 - ERROR - Error updating Remapped Country ID for city_id New 52: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2052
+2024-04-16 00:13:06,344 - ERROR - Error updating Remapped Country ID for city_id New 53: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2053
+2024-04-16 00:13:07,540 - ERROR - Error updating Remapped Country ID for city_id New 54: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2054
+2024-04-16 00:13:08,739 - ERROR - Error updating Remapped Country ID for city_id New 55: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2055
+2024-04-16 00:13:09,880 - ERROR - Error updating Remapped Country ID for city_id New 56: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2056
+2024-04-16 00:13:11,049 - ERROR - Error updating Remapped Country ID for city_id New 57: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2057
+2024-04-16 00:13:12,173 - ERROR - Error updating Remapped Country ID for city_id New 58: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2058
+2024-04-16 00:13:13,451 - ERROR - Error updating Remapped Country ID for city_id New 59: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2059
+2024-04-16 00:13:14,555 - ERROR - Error updating Remapped Country ID for city_id New 60: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2060
+2024-04-16 00:13:15,870 - ERROR - Error updating Remapped Country ID for city_id New 61: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2061
+2024-04-16 00:13:17,054 - ERROR - Error updating Remapped Country ID for city_id New 62: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2062
+2024-04-16 00:13:18,247 - ERROR - Error updating Remapped Country ID for city_id New 63: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2063
+2024-04-16 00:13:19,454 - ERROR - Error updating Remapped Country ID for city_id New 67: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2067
+2024-04-16 00:13:20,980 - ERROR - Error updating Remapped Country ID for city_id New 68: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2068
+2024-04-16 00:13:22,144 - ERROR - Error updating Remapped Country ID for city_id New 69: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2069
+2024-04-16 00:13:23,341 - ERROR - Error updating Remapped Country ID for city_id New 70: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2070
+2024-04-16 00:13:24,452 - ERROR - Error updating Remapped Country ID for city_id New 71: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2071
+2024-04-16 00:13:25,569 - ERROR - Error updating Remapped Country ID for city_id New 72: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2072
+2024-04-16 00:13:26,747 - ERROR - Error updating Remapped Country ID for city_id New 73: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2073
+2024-04-16 00:13:27,947 - ERROR - Error updating Remapped Country ID for city_id New 74: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2074
+2024-04-16 00:13:29,161 - ERROR - Error updating Remapped Country ID for city_id New 75: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2075
+2024-04-16 00:13:30,285 - ERROR - Error updating Remapped Country ID for city_id New 76: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2076
+2024-04-16 00:13:31,378 - ERROR - Error updating Remapped Country ID for city_id New 77: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2077
+2024-04-16 00:13:32,548 - ERROR - Error updating Remapped Country ID for city_id New 78: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2078
+2024-04-16 00:13:33,669 - ERROR - Error updating Remapped Country ID for city_id New 79: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2079
+2024-04-16 00:13:34,860 - ERROR - Error updating Remapped Country ID for city_id New 80: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2080
+2024-04-16 00:13:36,061 - ERROR - Error updating Remapped Country ID for city_id New 81: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2081
+2024-04-16 00:13:37,245 - ERROR - Error updating Remapped Country ID for city_id New 82: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2082
+2024-04-16 00:13:38,439 - ERROR - Error updating Remapped Country ID for city_id New 83: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2083
+2024-04-16 00:13:39,644 - ERROR - Error updating Remapped Country ID for city_id New 84: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2084
+2024-04-16 00:13:40,847 - ERROR - Error updating Remapped Country ID for city_id New 85: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2085
+2024-04-16 00:13:41,947 - ERROR - Error updating Remapped Country ID for city_id New 86: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2086
+2024-04-16 00:13:43,164 - ERROR - Error updating Remapped Country ID for city_id New 87: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2087
+2024-04-16 00:13:44,274 - ERROR - Error updating Remapped Country ID for city_id New 88: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2088
+2024-04-16 00:13:45,440 - ERROR - Error updating Remapped Country ID for city_id New 89: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2089
+2024-04-16 00:13:46,567 - ERROR - Error updating Remapped Country ID for city_id New 9: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%209
+2024-04-16 00:13:47,744 - ERROR - Error updating Remapped Country ID for city_id New 90: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2090
+2024-04-16 00:13:48,868 - ERROR - Error updating Remapped Country ID for city_id New 91: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2091
+2024-04-16 00:13:49,977 - ERROR - Error updating Remapped Country ID for city_id New 92: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2092
+2024-04-16 00:13:51,165 - ERROR - Error updating Remapped Country ID for city_id New 93: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2093
+2024-04-16 00:13:52,407 - ERROR - Error updating Remapped Country ID for city_id New 96: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2096
+2024-04-16 00:13:53,645 - ERROR - Error updating Remapped Country ID for city_id New 97: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2097
+2024-04-16 00:13:54,856 - ERROR - Error updating Remapped Country ID for city_id New 98: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2098
+2024-04-16 00:13:56,043 - ERROR - Error updating Remapped Country ID for city_id New 99: 404 Client Error: Not Found for url: https://classification-dev.dom-non-prod.with.digital/api/cities/New%2099
